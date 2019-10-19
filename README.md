@@ -1,2 +1,3 @@
 # website-checklist
-Website checklist for web developer
+
+Website checklist for web developer. Forked from [HarrisJT/web-launch-checklist](https://github.com/HarrisJT/web-launch-checklist).
